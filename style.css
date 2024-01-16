@@ -48,7 +48,7 @@ h21{
 	width: 100%;     
 	list-style-type: none;
     margin: 0;  /* marge en haut*/
-    padding: 0;  /* décalage à droite */
+    padding: 10;  /* décalage à droite */
     background-color: #ddbbff; /*barre de menu mauve*/
     overflow: hidden;
     border-top: 2px solid #800080/* bordure haut */
